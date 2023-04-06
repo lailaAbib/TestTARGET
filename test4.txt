@@ -1,0 +1,19 @@
+Supondo que eles pecorrerão metade da 
+distancia total até o ponto de encontro
+
+Resultado: primeiro o carro chegará em franca e depois caminhao em ribeiro
+
+carro
+
+tempo de viagem = 50 km / 110 km/h
+
+tempo de viagem = 0,454 horas
+
+Caminhão
+
+tempo de viagem = 50 km / 80 km/h
+
+tempo de viagem sem obstáculo = 0,625 horas
+
+tempo de viagem com obstáculo = 0,7917 horas
+
